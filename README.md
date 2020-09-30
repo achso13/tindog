@@ -1,1 +1,2 @@
-# tindog
+# Tindog
+An amazing project
